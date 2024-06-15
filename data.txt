@@ -1,0 +1,6 @@
+What I mean is I want the 3 cases to happen 
+case 1: Customer buy the seat without conflict
+case 2: customer but the seat with conflicit but win on frequency 
+case 3: wins on more bank balance when the freqnecy is equal
+
+rest keep the logic same 
